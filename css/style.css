@@ -1,6 +1,5 @@
 body{
-    background-color: aqua;
-    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .custom-container{
     height: 512px;
@@ -29,5 +28,10 @@ font-size: 18px;
 }
 .custom-card{
     height: 463px;
-    width: auto;
+}
+.arrow{
+    width: 40px;
+}
+.custom-footer{
+    background-color: rgb(193, 220, 220);
 }
