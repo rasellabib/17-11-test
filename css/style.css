@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    
+}
+.custom-container{
+    height: 512px;
+    background-color: rgb(193, 220, 220);
+}
+.custom-front-size{
+    font-size: 64px;
+    line-height: 60px;
+}
+.custom-text{
+    font-size: 24px;
+}
+
+.custom-text span{
+font-size: 18px;
+}
+.custom-line{
+    height: 64px;
+    width: 1px;
+
+}
+.custom-img{
+    height: 20px;
+    width: 20px;
+
+}
+.custom-card{
+    height: 463px;
+    width: auto;
+}
