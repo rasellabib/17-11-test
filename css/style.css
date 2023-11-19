@@ -35,3 +35,13 @@ font-size: 18px;
 .custom-footer{
     background-color: rgb(193, 220, 220);
 }
+/* @media screen and (max-width: 1000px) {
+    .text-div{
+     width: 100%;
+     font-size: 20px;
+     font-weight: 500;
+    }
+.custom-text{
+    font-size: 15px;
+}
+} */
